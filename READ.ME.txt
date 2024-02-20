@@ -1,0 +1,4 @@
+Teste para a empresa Btime
+
+O robô consiste em entrar no site https://www.noticiasagricolas.com.br/cotacoes/
+E verificar as cotações de todos os produtos agro e retornar para um arquivo CSV.
